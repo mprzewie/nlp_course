@@ -1,2 +1,6 @@
 # nlp_course
-Assignments for Natural Language Processing course @ AGH UST
+Assignments for Natural Language Processing course @ AGH UST.
+
+Course website:
+https://github.com/apohllo/pjn
+
