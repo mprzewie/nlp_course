@@ -1,0 +1,7 @@
+version: '3.2'
+services:
+  krnnt:
+    image: apohllo/krnnt:0.1
+    entrypoint: "python3 /home/krnnt/krnnt/krnnt_serve.py /home/krnnt/krnnt/data"
+    ports:
+        - "9200:9200"
