@@ -108,3 +108,4 @@ nltk_data/**
 !nltk_data/corpora
 !nltk_data/corpora/wordnet
 !nltk_data/corpora/wordnet/lenny
+lab9/out
